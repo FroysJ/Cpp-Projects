@@ -1,0 +1,4 @@
+C:/Users/froys/Downloads/CLionProjects/Cpp-Projects/CMakeFiles/CppProjects.dir
+C:/Users/froys/Downloads/CLionProjects/Cpp-Projects/CMakeFiles/object_detection.dir
+C:/Users/froys/Downloads/CLionProjects/Cpp-Projects/CMakeFiles/ALL_BUILD.dir
+C:/Users/froys/Downloads/CLionProjects/Cpp-Projects/CMakeFiles/ZERO_CHECK.dir
