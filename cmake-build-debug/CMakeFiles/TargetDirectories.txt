@@ -1,3 +1,0 @@
-C:/Users/froys/Downloads/CLionProjects/Cpp-Projects/cmake-build-debug/CMakeFiles/CppProjects.dir
-C:/Users/froys/Downloads/CLionProjects/Cpp-Projects/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/froys/Downloads/CLionProjects/Cpp-Projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
